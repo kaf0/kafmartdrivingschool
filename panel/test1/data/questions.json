@@ -1,0 +1,116 @@
+{
+  "pages": [
+    {
+      "title": "Kafmart - Test 1",
+      "questions": [
+        {
+          "type": "multiple-answers",
+          "statement": "What to keep in mind in this situation?",
+          "graded": true,
+          "points": 8,
+          "penaltyPoints": -1,
+          "choicesType": "checkbox",
+          "choices": [
+            "Left side bypass.",
+            "In accordance with speed.",
+            "Marked pedestrian crossing."
+          ],
+          "solution": [
+            0,
+            1
+          ],
+          "imagePosition": "left",
+          "asideImage": "https://i.imgur.com/7i5pGID.png"
+        }
+      ]
+    },
+    {
+      "title": "Kafmart - Test 1",
+      "questions": [
+        {
+        "type": "single-answer",
+        "statement": "What does this traffic sign warn?",
+        "graded": true,
+        "points": 6,
+        "penaltyPoints": 0,
+        "choicesType": "radio",
+        "choices": [
+          "The proximity of the coast.",
+          "Moving bridge.",
+          "The non -rock road."
+        ],
+        "solution": 0,
+        "imagePosition": "right",
+        "asideImage": "https://i.imgur.com/t24r2zK.png"
+      }
+      ]
+    },
+    {
+      "title": "Kafmart - Test 1",
+      "questions": [
+        {
+          "type": "single-answer",
+          "statement": "What tools are included in the B category?",
+          "graded": true,
+          "points": 4,
+          "penaltyPoints": 0,
+          "choicesType": "button",
+          "choices": [
+            "Travelers",
+            "Motor",
+            "Only car",
+            "Trucks"
+          ],
+          "itemsWidth": 50,
+          "itemSeparation": true,
+          "solution": 2
+        }
+      ]
+    },
+    {
+      "title": "Kafmart - Test 1",
+      "questions": [
+        {
+          "type": "single-answer",
+          "statement": "Where is the stop stopping the vehicle?",
+          "graded": true,
+          "points": 4,
+          "penaltyPoints": 0,
+          "choicesType": "button",
+          "choices": [
+            "In underpasses.",
+            "Over the sewer network.",
+            "Inside the urban area."
+          ],
+          "itemsWidth": 50,
+          "itemSeparation": true,
+          "solution": 0
+        }
+      ]
+    },
+    {
+      "title": "Kafmart - Test 1",
+      "questions": [
+        {
+          "type": "multiple-answers",
+          "statement": "The driver of the passenger vehicle enters traffic moving back. How do you evaluate this situation?",
+          "graded": true,
+          "points": 8,
+          "penaltyPoints": -1,
+          "choicesType": "checkbox",
+          "choices": [
+            "Straight, if it does not prevent other traffic participants.",
+            "Straight, if it does not prevent other traffic participants and ignites all driving indicators.",
+            "Not straight."
+          ],
+          "solution": [
+            0,
+            1
+          ],
+          "imagePosition": "left",
+          "asideImage": "https://i.imgur.com/Zv54Bzx.png"
+        }
+      ]
+    }
+  ]
+}
